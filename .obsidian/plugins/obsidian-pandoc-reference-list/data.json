@@ -1,0 +1,17 @@
+{
+  "pathToPandoc": "/usr/local/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1703927509284
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "pathToBibliography": "/Users/serhatbeyenir/Documents/obsidian-vault-template/_assets/My Library.json",
+  "pullFromZotero": true
+}

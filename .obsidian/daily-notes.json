@@ -1,5 +1,6 @@
 {
   "folder": "daily",
   "template": "_assets/templates/t_daily",
-  "autorun": true
+  "autorun": true,
+  "format": "YYYY-MM-DD"
 }
