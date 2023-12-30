@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-W01.md",
+                "file": "docs/daily/2023-12-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-W01.md",
+                "file": "docs/daily/2023-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-W01.md",
+                "file": "docs/daily/2023-12-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-W01.md"
+                "file": "docs/daily/2023-12-31.md"
               }
             }
           },
@@ -179,13 +179,13 @@
   },
   "active": "6429b382c113fc36",
   "lastOpenFiles": [
-    "_config.yml",
+    "docs/daily/2023-12-30.md",
+    "docs/daily/2024-W01.md",
+    "docs/daily/2023-12-31.md",
     "docs/index.md",
-    "2024-W01.md",
+    "_config.yml",
     "README.md",
     "CHANGELOG.md",
-    "docs/daily/2023-12-31.md",
-    "docs/daily/2023-12-30.md",
     "GETTING STARTED.md",
     "Untitled 1",
     "docs",
