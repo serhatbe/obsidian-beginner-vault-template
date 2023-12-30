@@ -125,14 +125,6 @@
       "key": "I"
     }
   ],
-  "obsidian-citation-plugin:insert-markdown-citation": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "obsidian-pandoc-reference-list:focus-reference-list-view": [
     {
       "modifiers": [
@@ -155,6 +147,14 @@
         "Alt"
       ],
       "key": "-"
+    }
+  ],
+  "obsidian-citation-plugin:insert-markdown-citation": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
     }
   ]
 }

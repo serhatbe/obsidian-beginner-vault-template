@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GETTING STARTED.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GETTING STARTED.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GETTING STARTED.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GETTING STARTED.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -179,14 +179,16 @@
   },
   "active": "6429b382c113fc36",
   "lastOpenFiles": [
-    "daily/2023-12-31.md",
-    "_assets/templates/t_daily.md",
-    "daily/2023-12-30.md",
-    "Untitled.md",
     "README.md",
-    "GETTING STARTED.md",
-    "LICENSE.md",
+    "docs/index.md",
     "CHANGELOG.md",
+    "docs/daily/2023-12-31.md",
+    "docs/daily/2023-12-30.md",
+    "GETTING STARTED.md",
+    "Untitled 1",
+    "docs",
+    "_assets/templates/t_daily.md",
+    "LICENSE.md",
     "_assets/My Library.json",
     "_assets/Reading notes"
   ]
