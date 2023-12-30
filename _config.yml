@@ -1,5 +1,6 @@
 title: Obsidian Beginner Vault # name of the site
 url: https://serhatbe.github.io/obsidian-beginner-vault-template/ # root address of the site
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-relative-links
 relative_links:
