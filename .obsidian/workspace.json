@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "2024-W01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "2024-W01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "2024-W01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "2024-W01.md"
               }
             }
           },
@@ -179,8 +179,10 @@
   },
   "active": "6429b382c113fc36",
   "lastOpenFiles": [
-    "README.md",
+    "_config.yml",
     "docs/index.md",
+    "2024-W01.md",
+    "README.md",
     "CHANGELOG.md",
     "docs/daily/2023-12-31.md",
     "docs/daily/2023-12-30.md",
