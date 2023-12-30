@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/daily/2023-12-31.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/daily/2023-12-31.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/daily/2023-12-31.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/daily/2023-12-31.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,10 +179,10 @@
   },
   "active": "6429b382c113fc36",
   "lastOpenFiles": [
-    "docs/daily/2023-12-30.md",
+    "docs/index.md",
     "docs/daily/2024-W01.md",
     "docs/daily/2023-12-31.md",
-    "docs/index.md",
+    "docs/daily/2023-12-30.md",
     "_config.yml",
     "README.md",
     "CHANGELOG.md",
